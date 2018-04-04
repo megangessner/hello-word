@@ -1,2 +1,3 @@
 # hello-word
-Becoming familiar with github
+
+Hey I'm megan and I like sloths.
